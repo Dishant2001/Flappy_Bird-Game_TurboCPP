@@ -1,2 +1,2 @@
-# Flappy_Bird-Game_TurboCPP
-A simple Flappy Bird Game in TurboCPP
+# Flappy_Bird-Game_TurboC
+A simple Flappy Bird Game in TurboC
